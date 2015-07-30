@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JumpyBro-android/bin/dexedLibs/gdx-backend-android-sources-79ba38707b58a26eea219ea23c33f91d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JumpyBro-android/bin/dexedLibs/gdx-a71aaf3906ab1e97bd548f5fbaa4429f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JumpyBro-android/bin/dexedLibs/gdx-backend-android-15953feca94e7340db21ff1b48bada34.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

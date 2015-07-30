@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JumpyBro/JumpyBro.iml" filepath="$PROJECT_DIR$/JumpyBro/JumpyBro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JumpyBro-android/JumpyBro-android.iml" filepath="$PROJECT_DIR$/JumpyBro-android/JumpyBro-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JumpyBro-desktop/JumpyBro-desktop.iml" filepath="$PROJECT_DIR$/JumpyBro-desktop/JumpyBro-desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JumpyBro-html/JumpyBro-html.iml" filepath="$PROJECT_DIR$/JumpyBro-html/JumpyBro-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JumpyBro-robovm/JumpyBro-robovm.iml" filepath="$PROJECT_DIR$/JumpyBro-robovm/JumpyBro-robovm.iml" />
+    </modules>
+  </component>
+</project>
